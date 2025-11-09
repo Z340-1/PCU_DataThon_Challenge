@@ -1,2 +1,1 @@
-# PCU_DataThon_Challenge
-PCU Challenge
+PCU_Challenge
